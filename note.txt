@@ -1,0 +1,4 @@
+Pseudo Code:
+  Step 1: Iterate over each vote
+  Step 2: Find candidate's vote counter
+  Step 3: Increment candidate's vote counter by 1
